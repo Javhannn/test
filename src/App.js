@@ -6,7 +6,7 @@ function App() {
       <Menubar />
 
       <div>Main section</div>
-      <div>footer section</div>
+      <div>footer section copy</div>
     </div>
   );
 }
